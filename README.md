@@ -9,6 +9,6 @@ Archive password: leak
 # Another download incase taken down
 https://www.mediafire.com/file/pm9wvn0inaellss/Valve_Leaks.rar/file
 
-# Original thread:
+# Original thread @ unknowncheats:
 (Original Thread)
 https://www.unknowncheats.me/forum/counterstrike-global-offensive/389254-leaked-cs-source-code.html
